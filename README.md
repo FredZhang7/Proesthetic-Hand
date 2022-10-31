@@ -16,4 +16,4 @@
 - Assuming there're no abnormal spikes in voltage outputs, it's fairly accurate. However, muscle sensors bought from Amazon sometimes give off abnormal spikes in the voltage outputs
 
 #### Detection V2
-- Only tested this once. Detection V2 solved this problem by tracking the lowest voltage reading and analyzing the history of 20 voltage readings
+- Only tested this twice. Detection V2 solved the abnormal spikes problem by tracking the lowest voltage reading and analyzing the history of 20 voltage readings
