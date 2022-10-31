@@ -2,12 +2,7 @@
 
 Servo faceupServo, facedownServo;
 int piezoPin = 0, pos = 0, curPulse = 0, precurPulse = 0, activationEnergy = 0, timer = 0;
-/* The algorithm makes four classifications based on this history array:
- *  (1) relaxed
- *  (2) tensed
- *  (3) curl three fingers
- *  (3) curl five fingers
- */
+
 int histLen = 20;
 int lowest = 35000;
 int history[histLen];
@@ -30,6 +25,11 @@ void setup() {
  delay(1000);
 }
 
+/* The algorithm accounts for these scenarios:
+ *  (1) normal state
+ *  (2) abnormal state
+ *  (3) tensed muscles
+ */
 void loop() {
  curPulse = analogRead(piezoPin);
  Serial.println(curPulse);
