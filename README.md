@@ -1,5 +1,13 @@
 # Prosthetic Hand
 
+#### Aesthetics
+
+Inner Look
+![Inner Look](https://github.com/FredZhang7/Proesthetic-Hand/blob/main/Prosthetic_Hand_Inner_Look.jpeg)
+
+Outer Look
+![Outer Look](https://github.com/FredZhang7/Proesthetic-Hand/blob/main/Prosthetic_Hand_Outer_Look.jpeg)
+
 #### Journal of Progress
 1. Electromyogragy (EMG) Testing
 ![EMG Testing](https://drive.google.com/file/d/1xdGDu_gt9ZFMpc_6s7Qvo7Smc1eVCu5N/view?usp=sharing)
