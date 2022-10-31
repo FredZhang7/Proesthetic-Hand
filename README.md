@@ -2,11 +2,11 @@
 
 ### Aesthetics
 
-Inner Look
-![Inner Look](https://github.com/FredZhang7/Proesthetic-Hand/blob/main/Prosthetic_Hand_Inner_Look.jpeg)
+Inner Look  
+<img src="https://github.com/FredZhang7/Proesthetic-Hand/blob/main/Prosthetic_Hand_Inner_Look.jpeg" alt="Inner Look" style="width:500px;"/>
 
-Outer Look
-![Outer Look](https://github.com/FredZhang7/Proesthetic-Hand/blob/main/Prosthetic_Hand_Outer_Look.jpeg)
+Outer Look  
+<img src="https://github.com/FredZhang7/Proesthetic-Hand/blob/main/Prosthetic_Hand_Outer_Look.jpeg" alt="Outer Look" style="width:500px;"/>
 
 ### Journal of Progress
 1. Electromyogragy (EMG) Test  
