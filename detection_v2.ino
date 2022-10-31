@@ -3,7 +3,7 @@
 Servo faceupServo, facedownServo;
 int piezoPin = 0, pos = 0, curPulse = 0, precurPulse = 0, activationEnergy = 0, timer = 0;
 
-int histLen = 20;
+int histLen = 10;
 int lowest = 35000;
 int history[histLen];
 
