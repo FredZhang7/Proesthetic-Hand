@@ -1,7 +1,7 @@
 # Prosthetic Hand
 
 #### Challenges
-1. No alchohol nor cotton sticks to clean my skin for accurate electromyography readings
+1. No alchohol nor cotton sticks available at home to clean my skin for accurate electromyography readings
 2. Muscle sensors bought from Amazon sometimes give off abnormal spikes in the voltage outputs & the prosthetic hand user may use different batteries
 3. No multimeter available to detect any potential short circuits or leakage current
 4. Little to no Serial data support on Raspberry Pi
