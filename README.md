@@ -9,15 +9,14 @@ Outer Look
 ![Outer Look](https://github.com/FredZhang7/Proesthetic-Hand/blob/main/Prosthetic_Hand_Outer_Look.jpeg)
 
 ### Journal of Progress
-1. Electromyogragy (EMG) Test
+1. Electromyogragy (EMG) Test  
+  [![EMG Test](https://res.cloudinary.com/marcomontalbano/image/upload/v1667257894/video_to_markdown/images/google-drive--1xdGDu_gt9ZFMpc_6s7Qvo7Smc1eVCu5N-c05b58ac6eb4c4700831b2b3070cd403.jpg)](https://drive.google.com/file/d/1xdGDu_gt9ZFMpc_6s7Qvo7Smc1eVCu5N/view?usp=sharing "EMG Test")
 
-[![EMG Test](https://res.cloudinary.com/marcomontalbano/image/upload/v1667257894/video_to_markdown/images/google-drive--1xdGDu_gt9ZFMpc_6s7Qvo7Smc1eVCu5N-c05b58ac6eb4c4700831b2b3070cd403.jpg)](https://drive.google.com/file/d/1xdGDu_gt9ZFMpc_6s7Qvo7Smc1eVCu5N/view?usp=sharing "EMG Test")
+2. Mechanics Test  
+  [![Mechanics Test](https://res.cloudinary.com/marcomontalbano/image/upload/v1667257951/video_to_markdown/images/google-drive--1F7A8A4LyIdtMx8l9OecwImrnwCySaV7k-c05b58ac6eb4c4700831b2b3070cd403.jpg)](https://drive.google.com/file/d/1F7A8A4LyIdtMx8l9OecwImrnwCySaV7k/view?usp=sharing "Mechanics Test")
 
-2. Mechanics Test
-[![Mechanics Test](https://res.cloudinary.com/marcomontalbano/image/upload/v1667257951/video_to_markdown/images/google-drive--1F7A8A4LyIdtMx8l9OecwImrnwCySaV7k-c05b58ac6eb4c4700831b2b3070cd403.jpg)](https://drive.google.com/file/d/1F7A8A4LyIdtMx8l9OecwImrnwCySaV7k/view?usp=sharing "Mechanics Test")
-
-3. Torque↑ Test
-[![More Torque Test](https://res.cloudinary.com/marcomontalbano/image/upload/v1667258347/video_to_markdown/images/google-drive--1eY6iZP2jAEQtyfKidUsc3BUDA9daUWxT-c05b58ac6eb4c4700831b2b3070cd403.jpg)](https://drive.google.com/file/d/1eY6iZP2jAEQtyfKidUsc3BUDA9daUWxT/view?usp=sharing "More Torque Test")
+3. Torque↑ Test  
+  [![More Torque Test](https://res.cloudinary.com/marcomontalbano/image/upload/v1667258347/video_to_markdown/images/google-drive--1eY6iZP2jAEQtyfKidUsc3BUDA9daUWxT-c05b58ac6eb4c4700831b2b3070cd403.jpg)](https://drive.google.com/file/d/1eY6iZP2jAEQtyfKidUsc3BUDA9daUWxT/view?usp=sharing "More Torque Test")
 
 ### Challenges
 1. No alchohol nor cotton sticks available at home to clean my skin for accurate EMG readings
