@@ -1,7 +1,14 @@
 # Prosthetic Hand
 
+#### Journal of Progress
+1. Electromyogragy (EMG) Testing
+![EMG Testing](https://drive.google.com/file/d/1xdGDu_gt9ZFMpc_6s7Qvo7Smc1eVCu5N/view?usp=sharing)
+2. Mechanics Testing
+![Beta Hand Testing](https://drive.google.com/file/d/1F7A8A4LyIdtMx8l9OecwImrnwCySaV7k/view?usp=sharing)
+3. 
+
 #### Challenges
-1. No alchohol nor cotton sticks available at home to clean my skin for accurate electromyography readings
+1. No alchohol nor cotton sticks available at home to clean my skin for accurate EMG readings
 2. The prosthetic hand user may use different batteries
 3. No multimeter available to detect any potential short circuits
 4. Little to no Serial data support on Raspberry Pi
