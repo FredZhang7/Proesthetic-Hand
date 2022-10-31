@@ -2,7 +2,7 @@
 
 #### Challenges
 1. No alchohol nor cotton sticks available at home to clean my skin for accurate electromyography readings
-2. Muscle sensors bought from Amazon sometimes give off abnormal spikes in the voltage outputs & the prosthetic hand user may use different batteries
+2. The prosthetic hand user may use different batteries
 3. No multimeter available to detect any potential short circuits or leakage current
 4. Little to no Serial data support on Raspberry Pi
 
@@ -13,5 +13,7 @@
 4. Switched to Arduino Uno Rev3
 
 #### Detection V1
-- 
-- See [detection_v1.ino](https://github.com/FredZhang7/Proesthetic-Hand/detection_v1.ino]
+- Assuming there're no abnormal spikes in voltage outputs, it's fairly accurate. However, muscle sensors bought from Amazon sometimes give off abnormal spikes in the voltage outputs
+
+#### Detection V2
+- Detection V2 solved this problem by tracking the lowest voltage reading and analyzing the history of 20 voltage readings
