@@ -1,4 +1,4 @@
-# Prosthetic Hand
+# DIY Prosthetic Hand
 
 ### Aesthetics
 
